@@ -112,7 +112,7 @@ button {
 
 
 .PDP {
-    border-radius: 200px;
+    border-radius: 20px;
     
 }
 
@@ -199,6 +199,11 @@ button {
     
 }
 
+.family-img {
+
+    border-radius: 20px;
+}
+
 .family-wrapper {
     
     padding-top: 100px;
@@ -253,6 +258,11 @@ button {
 
 .father {
     padding-top: 150px;
+}
+
+.father-img {
+
+    border-radius: 20px;
 }
 
 .father-wrapper {
@@ -461,7 +471,7 @@ button {
 
 .footer-list {
 
-    padding-block: 100px;
+    padding-block: 120px;
     display: flex;
     column-gap: 30px;
     justify-content:space-between ;
